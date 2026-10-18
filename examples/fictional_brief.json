@@ -1,0 +1,28 @@
+{
+  "title": "The Lantern Maker",
+  "style": "original two-dimensional hand-painted animation",
+  "scenes": [
+    {
+      "description": "At dawn an apprentice opens a quiet lantern workshop while rain softens the street outside.",
+      "characters": [
+        "Mira"
+      ],
+      "mood": "calm curiosity"
+    },
+    {
+      "description": "A handmade paper lantern flickers to life, revealing a tiny constellation inside.",
+      "characters": [
+        "Mira"
+      ],
+      "mood": "wonder"
+    },
+    {
+      "description": "Mira carries the glowing lantern into the town square as neighbors gather with smiles.",
+      "characters": [
+        "Mira",
+        "neighbor"
+      ],
+      "mood": "warm celebration"
+    }
+  ]
+}
