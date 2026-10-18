@@ -1,0 +1,26 @@
+{
+  "title": "The Lantern Maker",
+  "shots": [
+    {
+      "shot_id": "shot-001",
+      "duration_sec": 4,
+      "prompt": "Create an original animated scene. Style: original two-dimensional hand-painted animation. Framing: wide establishing view. Characters: Mira. Action: At dawn an apprentice opens a quiet lantern workshop while rain softens the street outside.. Mood: calm curiosity. Readable staging and smooth motion. No titles, brand marks or watermarks.",
+      "negative_prompt": "real-person likeness, logos, copyrighted characters, watermarks",
+      "requested_output": "mp4"
+    },
+    {
+      "shot_id": "shot-002",
+      "duration_sec": 4,
+      "prompt": "Create an original animated scene. Style: original two-dimensional hand-painted animation. Framing: medium shot. Characters: Mira. Action: A handmade paper lantern flickers to life, revealing a tiny constellation inside.. Mood: wonder. Readable staging and smooth motion. No titles, brand marks or watermarks.",
+      "negative_prompt": "real-person likeness, logos, copyrighted characters, watermarks",
+      "requested_output": "mp4"
+    },
+    {
+      "shot_id": "shot-003",
+      "duration_sec": 4,
+      "prompt": "Create an original animated scene. Style: original two-dimensional hand-painted animation. Framing: medium shot. Characters: Mira, neighbor. Action: Mira carries the glowing lantern into the town square as neighbors gather with smiles.. Mood: warm celebration. Readable staging and smooth motion. No titles, brand marks or watermarks.",
+      "negative_prompt": "real-person likeness, logos, copyrighted characters, watermarks",
+      "requested_output": "mp4"
+    }
+  ]
+}
